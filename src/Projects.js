@@ -7,7 +7,7 @@ const Projects = () => (
     <section className="projects" id="projects">
         
         <ProjectCard title="To-do list" githubRepo="https://github.com/bengu-thon-mai-mochi/To-do-List" deployLink="https://laughing-joliot-045068.netlify.app/" desc="An app to track things to do. Built with ReactJS, deployed with Netlify" thumbnail="list alternate outline"/>
-        <ProjectCard title="Github User Search" githubRepo="https://github.com/bengu-thon-mai-mochi/github-user-search" deployLink="https://romantic-gates-f9fcf1.netlify.app/" desc="An app browses github API through user query. Built with ReactJS, deployed with Netlify." thumbnail="keyboard outline"/>
+        <ProjectCard title="Github User Search" githubRepo="https://github.com/bengu-thon-mai-mochi/github-user-search" deployLink="https://to-do-list-ruddy.vercel.app/" desc="An app browses github API through user query. Built with ReactJS, deployed with Vercel." thumbnail="keyboard outline"/>
         <ProjectCard title="Share a Meal" githubRepo="https://github.com/bengu-thon-mai-mochi/share-a-meal" deployLink="https://share-a-meal.herokuapp.com/" desc="Reservation app for sharing meals. Built with Javascript, mySQL, NodeJS, ExpressJS. Deployed with Heroku." thumbnail="utensils"/>
     </section>
     </>
