@@ -1,0 +1,10 @@
+header {
+    height: 100vh;
+}
+
+.header__bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
